@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite';
 export default defineConfig({
-  base: '/landing_page/',
+  base: '/Test/',
   build: {
     outDir: 'dist',
     emptyOutDir: true,
